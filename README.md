@@ -37,7 +37,7 @@ rm file.txt
 I learned how to navigate the Linux filesystem confidently. At first, I kept forgetting to use sudo, but after a few mistakes I understood the importance of permissions.    This helped me to practice my skills and navigate through the filesystem by making mistake which allowed mme do the later sessions easily. I also realise that a new desktop was opened. It was totally different from my normal computer system. Even when taking screenshots, the screenshots get saved in that filesystem which was also confusing in the start. 
 
 
-
+## Session 2 – Web Server Setup
 
 
 
