@@ -4,8 +4,7 @@ git clone https://github.com/pauyaahmanimaran-bumble/BRG-27-labs.git
 cd BRG-27-labs
 Session 3 – DNS, SSL, and Automation
 
-3a DNS Setup
-
+#3a DNS Setup 
 Root domain bridging.linkpc.net → EC2 public IP 3.27.10.254.
 
 Subdomain www.bridging.linkpc.net included via SAN.
