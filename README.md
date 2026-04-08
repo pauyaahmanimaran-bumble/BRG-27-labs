@@ -1,8 +1,53 @@
 # BRG-27-labs
 lab activities 
 git clone https://github.com/pauyaahmanimaran-bumble/BRG-27-labs.git
-cd BRG-27-labs
-Session 3 – DNS, SSL, and Automation
+
+## Session 1 – Linux Setup & Basic Commands
+
+### Steps
+- Launched Ubuntu EC2 instance on AWS.
+- Connected via SSH:
+  ```bash
+  ssh -i mykey.pem ubuntu@<public-ip>
+
+- Updated system:
+sudo apt update && sudo apt upgrade -y
+
+- Practised basic commands:
+pwd
+ls -la
+cd /var
+mkdir testdir
+touch file.txt
+rm file.txt
+
+Reflection
+I learned how to navigate the Linux filesystem confidently. At first, I kept forgetting to use sudo, but after a few mistakes I understood the importance of permissions. This gave me a strong foundation for later sessions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 3a DNS Setup 
 Root domain bridging.linkpc.net → EC2 public IP 3.27.10.254.
