@@ -148,4 +148,6 @@ Compiled README with all sessions.
 Reflection
 I realised that consulting is not just about technical skills but also about communication. Explaining why Fortinet caused SSL errors helped me practice client‑style articulation. Exploring MySQL gave me confidence to try new services. Overall, I grew from a student experimenting with commands into someone who can deploy, secure, and explain a cloud service professionally.
 
+i have added my video in my reflection doc as i was't able to acess the sharepoint the teacher shared
+
 
