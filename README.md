@@ -2,6 +2,12 @@
 lab activities 
 git clone https://github.com/pauyaahmanimaran-bumble/BRG-27-labs.git
 
+__Student__: Pauyaah Manimaran <br>
+__Kaplan ID__: CT0380229 <br>
+__Module__: BRG-27 Introduction to Server Environments and Architectures <br>
+
+
+
 ## Session 1 – Linux Setup & Basic Commands
 
 ### Steps
@@ -14,15 +20,24 @@ git clone https://github.com/pauyaahmanimaran-bumble/BRG-27-labs.git
 sudo apt update && sudo apt upgrade -y
 
 - Practised basic commands:
+
 pwd
+
 ls -la
 cd /var
+
 mkdir testdir
+
 touch file.txt
+
 rm file.txt
 
-Reflection
-I learned how to navigate the Linux filesystem confidently. At first, I kept forgetting to use sudo, but after a few mistakes I understood the importance of permissions. This gave me a strong foundation for later sessions.
+### Reflection
+
+I learned how to navigate the Linux filesystem confidently. At first, I kept forgetting to use sudo, but after a few mistakes I understood the importance of permissions.    This helped me to practice my skills and navigate through the filesystem by making mistake which allowed mme do the later sessions easily. I also realise that a new desktop was opened. It was totally different from my normal computer system. Even when taking screenshots, the screenshots get saved in that filesystem which was also confusing in the start. 
+
+
+
 
 
 
